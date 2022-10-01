@@ -1,5 +1,6 @@
 .card {
-    background-color: aqua;
+    background-color: gainsboro;
+    text-align: left;
 }
 
 .card-firsttitle {
@@ -14,5 +15,12 @@
     text-align: left;
 }
 
+.all-cards {
+    background-color: greenyellow;
+    padding: 5px;
+    border-radius: 5px;
+    border: 4px groove;
+
+}
 
 

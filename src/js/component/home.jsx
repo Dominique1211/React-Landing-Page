@@ -3,6 +3,7 @@ import { Navbar } from "./navbar.jsx";
 
 import { Card } from "./card.jsx";
 
+// import { Cardtwo } from "./card.jsx";
 
 //create your first component
 const Home = () => {
@@ -10,6 +11,7 @@ const Home = () => {
 		<div className="text-center">
 			<Navbar/>
 			<Card/>
+			{/* <Cardtwo/> */}
 		</div>
 	);
 };
